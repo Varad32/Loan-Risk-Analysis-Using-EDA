@@ -1,4 +1,4 @@
-Loan-Risk-Analysis-Using-EDA
+# Loan-Risk-Analysis-Using-EDA
 
 This case study aspiration to give an idea of applying EDA in a legitimate business scenario. 
 
